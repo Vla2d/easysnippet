@@ -1,0 +1,7 @@
+# api keys
+.env
+
+node_modules
+dist
+
+todo.txt
